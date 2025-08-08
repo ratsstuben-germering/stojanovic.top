@@ -1,4 +1,4 @@
-# Hello! 
+# Hello there.
 # I'm Josip Stojanović
 ---
 +49 1573 1052 666 · Zagreb, Croatia · josip@stojanovic.top
