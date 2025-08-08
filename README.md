@@ -1,4 +1,5 @@
 # Hello there. I'm Josip Stojanović
+
 [+49 1573 1052 666](tel:+4915731052666) · Zagreb, Croatia · [josip@stojanovic.top](mailto:josip@stojanovic.top)
 
 ## Professional Skills
