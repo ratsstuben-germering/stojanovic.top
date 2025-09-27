@@ -1,0 +1,5 @@
+push_github.sh
+push_server.sh
+material_for_markdown/STATIC/site/
+build_site.sh
+material_for_markdown/venv/
