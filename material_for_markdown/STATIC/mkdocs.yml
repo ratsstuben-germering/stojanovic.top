@@ -7,17 +7,17 @@ theme:
     - navigation.footer
   palette:
     # Primary theme (default: light)
-    - scheme: slate
+    - scheme: default
       toggle:
         icon: material/weather-sunny
         name: Light
     # Dark theme
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/weather-night
         name: Dark
     # Optional: Auto-detect system preference
-    #- scheme: preference
-    #  toggle:
-    #    icon: material/theme-light-dark
-    #    name: Auto
+    - scheme: preference
+      toggle:
+        icon: material/theme-light-dark
+        name: Auto
