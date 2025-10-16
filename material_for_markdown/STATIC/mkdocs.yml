@@ -22,6 +22,6 @@ theme:
         icon: material/theme-light-dark
         name: Auto
 nav:
-  - Home: index.md
-  - User Guide: user-guide.md
+  - Hi my name is Josip: index.md
+  - Cutiosity & Care: user-guide.md
 
