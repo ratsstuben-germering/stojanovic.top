@@ -27,7 +27,7 @@ The whole world is at play; some rules apply, but no rule is set yet.
 
 ---
 
-## History of cooperation
+## A quiet history of hands
 
 We live in gentle explosion: information flows, cooperation swells.  
 Think food we eat, clothes we wear, roofs overhead many, many hands.  
